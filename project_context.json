@@ -1,0 +1,15 @@
+{
+  "student_level": "beginner",
+  "preferred_library": "gpiozero",
+  "hardware": [
+    "led",
+    "button",
+    "buzzer"
+  ],
+  "rules": [
+    "prefer simple code",
+    "avoid threading",
+    "add comments",
+    "keep explanations beginner friendly"
+  ]
+}

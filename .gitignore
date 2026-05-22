@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# Streamlit / local app state
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Generated caches
+frontend/__pycache__/
