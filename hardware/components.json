@@ -1,0 +1,23 @@
+{
+  "led": {
+    "description": "Simple LED light",
+    "requires_resistor": true,
+    "safe_voltage": "3.3V",
+    "common_gpio_pins": [27],
+    "difficulty": "beginner"
+  },
+
+  "button": {
+    "description": "Push button input",
+    "requires_pull_down": false,
+    "common_gpio_pins": [17],
+    "difficulty": "beginner"
+  },
+
+  "buzzer": {
+    "description": "Simple buzzer output",
+    "requires_resistor": false,
+    "common_gpio_pins": [22],
+    "difficulty": "beginner"
+  }
+}

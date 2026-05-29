@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Temperature Sensor",
+    "description": "Measures air temperature for monitoring comfort or weather changes."
+  },
+  {
+    "name": "Heat Sensor",
+    "description": "Detects warmth from objects and appliances."
+  },
+  {
+    "name": "Pressure Sensor",
+    "description": "Senses pressure changes for simple environmental experiments."
+  },
+  {
+    "name": "Infrared Sensor",
+    "description": "Detects motion and heat from people or objects nearby."
+  },
+  {
+    "name": "Ultrasonic Distance Sensor",
+    "description": "Measures distance to a nearby object using sound pulses."
+  },
+  {
+    "name": "Photo Sensor (Light Sensor)",
+    "description": "Reads how bright the surrounding light is."
+  },
+  {
+    "name": "Smoke Sensor",
+    "description": "Detects smoke and changes in air quality for safety."
+  },
+  {
+    "name": "Moisture Sensor",
+    "description": "Measures soil dampness for plant care experiments."
+  }
+]

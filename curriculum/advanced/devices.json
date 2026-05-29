@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Camera",
+    "description": "Captures images for observation, creativity, or simple computer vision."
+  },
+  {
+    "name": "Satellite GPS Receiver",
+    "description": "Provides location data for navigation and tracking projects."
+  },
+  {
+    "name": "Software Defined Radio (SDR) Radio Antenna",
+    "description": "Receives radio signals for exploring wireless communication."
+  },
+  {
+    "name": "Motors",
+    "description": "Drive motion for robots, moving devices, or mechanical systems."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "LED",
+    "description": "A simple light that helps beginners explore cause and effect."
+  },
+  {
+    "name": "Switch / Push Button",
+    "description": "An input device that changes a circuit state when pressed."
+  },
+  {
+    "name": "Buzzer",
+    "description": "A sound device that gives instant feedback when activated."
+  },
+  {
+    "name": "OLED SSD1306 Display",
+    "description": "A small screen for showing text, icons, or messages."
+  }
+]

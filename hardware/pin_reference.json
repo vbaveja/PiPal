@@ -1,0 +1,21 @@
+{
+  "GPIO17": {
+    "physical_pin": 11,
+    "type": "GPIO"
+  },
+
+  "GPIO27": {
+    "physical_pin": 13,
+    "type": "GPIO"
+  },
+
+  "3V3": {
+    "physical_pin": 1,
+    "type": "power"
+  },
+
+  "GND": {
+    "physical_pin": 6,
+    "type": "ground"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "Always connect LED with resistor",
+    "Never connect LED directly to 5V",
+    "GPIO pins should not connect directly to power rails",
+    "Use GND rail consistently",
+    "Keep wiring beginner friendly"
+  ]
+}
